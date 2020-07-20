@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039484820032",
+    "firebase_url": "https://find-lanka.firebaseio.com",
+    "project_id": "find-lanka",
+    "storage_bucket": "find-lanka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039484820032:android:8e11f5d2134c2c5e985da5",
+        "android_client_info": {
+          "package_name": "com.findlanka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039484820032-osivinsclohmde58j5stlbi601iei4fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.findlanka",
+            "certificate_hash": "02a5339e2068fa0cd197b9e5654943a49602cd8f"
+          }
+        },
+        {
+          "client_id": "1039484820032-g1em4bi1ecjrcu9c8m4ag26f30g8jv43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMIVPTb9bq5cZLavNayI2nEv-Q8xwxE-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039484820032-g1em4bi1ecjrcu9c8m4ag26f30g8jv43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
